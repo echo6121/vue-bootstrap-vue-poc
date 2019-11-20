@@ -1,6 +1,6 @@
 # mia-poc-vue-kendo
 
-> A Vue.js project
+> POC -Vue.js project by using vue and vue-bootstrap. small spa
 
 ## Build Setup
 
